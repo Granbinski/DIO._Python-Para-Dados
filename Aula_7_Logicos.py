@@ -6,9 +6,7 @@ saque <= limite
 saldo >= saque and saque <= limite
 saldo >= saque or saque <= limite
 
-contatos_emergencia = []
 not 1000 > 1500
-not contatos_emergencia
 not " saque 1500 ; "
 not ""
 conta_especial = True
