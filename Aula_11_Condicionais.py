@@ -8,8 +8,8 @@ if idade >= MAIOR_IDADE:
 
 if idade < MAIOR_IDADE:
     print("Aida nao pode tirar CNH")
-    
-if idade >+ MAIOR_IDADE:
+
+if idade >= MAIOR_IDADE:
     print("Pode tirar a CNH")
 elif idade == IDADE_ESPECIAL:
     print("Pode fazer aula teorica apenas")
